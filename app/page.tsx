@@ -45,8 +45,7 @@ export default function Home() {
           {/* Social Media Icons */}
           <div className="flex flex-row items-center space-x-12 my-3 md:mr-7">
             <a
-              href="#"
-              aria-disabled
+              href="https://dexscreener.com/base/0xf6a5282e459defdc09333ef2ac9994fa27b8bb07"
               target="_blank"
               rel="noopener noreferrer"
               className="text-purple-300 hover:text-purple-100 transition-colors"
